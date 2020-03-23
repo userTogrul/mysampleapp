@@ -1,2 +1,3 @@
-#myApp
+#MyApp
+
 App for testing
