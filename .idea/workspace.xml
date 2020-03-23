@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="399772a2-3a9b-4ca3-bb10-a01ee081ad34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YvW36S1MiyJipg6hDjQYlCoz3G" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,7 +47,7 @@
       <updated>1583823345541</updated>
       <workItem from="1583823348323" duration="4775000" />
       <workItem from="1583907626816" duration="1728000" />
-      <workItem from="1584966468381" duration="755000" />
+      <workItem from="1584966468381" duration="1304000" />
     </task>
     <servers />
   </component>
