@@ -9,3 +9,4 @@ this.x = 400;
 this.y = 500;
 
 console.log(User);
+console.log(User);
